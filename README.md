@@ -4,9 +4,10 @@ This repository contains statistical tests of hypothesis with examples in Python
 Topics include:
 
   1. Test of Hypothesis
-      a. One Sample t test
-      b. Two Sample t test
-      c. Paired t test
+ 
+      1. One Sample t test
+      2. Two Sample t test
+      3. Paired t test
       
   2. Normality Test
   3. Analysis of Variance
