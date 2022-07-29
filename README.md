@@ -11,5 +11,4 @@ Topics include:
       
   2. Normality Test
   3. Analysis of Variance
-  4. Cross Tabulation
-  5. Chi Square Test
+  4. Cross Tabulation & Chi Square Test
