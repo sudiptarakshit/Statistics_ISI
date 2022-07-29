@@ -1,5 +1,5 @@
 # Statistics_ISI
-This repository contains statistical tests of hypothesis with examples in Python
+This repository contains statistical tests with examples in Python
 
 Topics include:
 
